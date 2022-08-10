@@ -1,0 +1,17 @@
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.csproj.AssemblyReference.cache
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.AssemblyInfoInputs.cache
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.AssemblyInfo.cs
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.csproj.CoreCompileInputs.cache
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\bin\Debug\net6.0\SuperTagsApp.exe
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\bin\Debug\net6.0\SuperTagsApp.deps.json
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\bin\Debug\net6.0\SuperTagsApp.runtimeconfig.json
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\bin\Debug\net6.0\SuperTagsApp.dll
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\bin\Debug\net6.0\SuperTagsApp.pdb
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\bin\Debug\net6.0\SuperTags.dll
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.csproj.CopyComplete
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.dll
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\refint\SuperTagsApp.dll
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.pdb
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\SuperTagsApp.genruntimeconfig.cache
+C:\Users\kaeyo\source\repos\SuperTagsApp\SuperTagsApp\obj\Debug\net6.0\ref\SuperTagsApp.dll

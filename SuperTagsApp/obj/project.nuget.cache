@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fenLUupXGQ9NpFRNpTYiE+CZ+rwTxfyFXUmKBEZKYUkvbno3bnDdHRLbDck2SjBiM85B992+6epfRzPh7LT5ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaeyo\\source\\repos\\SuperTagsApp\\SuperTagsApp\\SuperTagsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaeyo\\.nuget\\packages\\supertags\\1.0.0\\supertags.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

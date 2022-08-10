@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SuperTags/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/SuperTags.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/SuperTags.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperTags/1.0.0": {
+      "sha512": "SJGHqT8fD+LTRZH753k+WocrTtHM0NOHyXIW+BO8K3zxcR+oJfwE/XzX7Pg81Sv0mMK+849WqBmkVBsvUxHaag==",
+      "type": "package",
+      "path": "supertags/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net6.0/SuperTags.dll",
+        "supertags.1.0.0.nupkg.sha512",
+        "supertags.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SuperTags >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kaeyo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kaeyo\\source\\repos\\SuperTagsApp\\SuperTagsApp\\SuperTagsApp.csproj",
+      "projectName": "SuperTagsApp",
+      "projectPath": "C:\\Users\\kaeyo\\source\\repos\\SuperTagsApp\\SuperTagsApp\\SuperTagsApp.csproj",
+      "packagesPath": "C:\\Users\\kaeyo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaeyo\\source\\repos\\SuperTagsApp\\SuperTagsApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kaeyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "SuperTags": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
